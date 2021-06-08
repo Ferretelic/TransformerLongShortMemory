@@ -1,0 +1,12 @@
+{
+  "WikiText2": {
+    "dataset_path": "/home/shouki/Desktop/Programming/Python/AI/Datasets/TextData/WikiText-2",
+    "short_memory_size": 5,
+    "long_memory_size": 20,
+    "bpc_length": 30,
+    "num_epochs": 10,
+    "batch_size": 8,
+    "num_workers": 12,
+    "device": "cuda"
+  }
+}
